@@ -1,2 +1,2 @@
-# iris_classifier
+# Iris Classifier
 Iris Dataset Classifier using Logistic Regression
